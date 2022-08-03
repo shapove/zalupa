@@ -1,0 +1,220 @@
+body {
+    font-family: "Gill Sans", Calibri, "Trebuchet MS", sans-serif;
+	background-color: #d4f3d2;
+	background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626145983_35-kartinkin-com-p-krasivii-svetlii-fon-krasivo-35.jpg);
+	.heading {
+	letter-spacing: 5px;
+    font-family: fantasy;
+	font-size: 45px;
+	color: #2a2adb;
+	text-shadow: 
+		-0   -3px 2px #f7fa52,
+		 0   -3px 2px #F259B0,
+		-0    3px 2px #F259B0,
+		 0    3px 2px #F259B0,
+		-3px -0   2px #F259B0,
+		 3px -0   2px #F259B0,
+		-3px  0   2px #F259B0,
+		 3px  0   2px #F259B0,
+		-1px -3px 2px #F259B0,
+		 1px -3px 2px #F259B0,
+		-1px  3px 2px #F259B0,
+		 1px  3px 2px #F259B0,
+		-3px -1px 2px #F259B0,
+		 3px -1px 2px #F259B0,
+		-3px  1px 2px #F259B0,
+		 3px  1px 2px #F259B0,
+		-2px -3px 2px #F259B0,
+		 2px -3px 2px #F259B0,
+		-2px  3px 2px #F259B0,
+		 2px  3px 2px #F259B0,
+		-3px -2px 2px #F259B0,
+		 3px -2px 2px #F259B0,
+		-3px  2px 2px #F259B0,
+		 3px  2px 2px #F259B0,
+		-3px -3px 2px #F259B0,
+		 3px -3px 2px #F259B0,
+		-3px  3px 2px #F259B0,
+		 3px  3px 2px #F259B0,
+		-3px -3px 2px #F259B0,
+		 3px -3px 2px #F259B0,
+		-3px  3px 2px #F259B0,
+		 3px  3px 2px #F259B0;
+}
+.intro {
+	border: 3px solid lightpink;
+	background-image: url("https://kartinkin.net/uploads/posts/2022-03/1648115449_36-kartinkin-net-p-kartinki-dlya-fona-video-36.jpg");
+	padding-left: 16px;
+    background-color: #2789ca;
+    color: white;
+    text-align: center;
+	padding-bottom: 8px;
+	margin-bottom: 20px;
+}
+.summary {
+    font-family: fantasy;
+	font-size: 22px;
+	color: #1515ca;
+    font-style: italic;
+	text-shadow: 
+		-0   -3px 2px #F2B8DA,
+		 0   -3px 2px #F2B8DA,
+		-0    3px 2px #F2B8DA,
+		 0    3px 2px #F2B8DA,
+		-3px -0   2px #F2B8DA,
+		 3px -0   2px #F2B8DA,
+		-3px  0   2px #F2B8DA,
+		 3px  0   2px #F2B8DA,
+		-1px -3px 2px #F2B8DA,
+		 1px -3px 2px #F2B8DA,
+		-1px  3px 2px #F2B8DA,
+		 1px  3px 2px #F2B8DA,
+		-3px -1px 2px #F2B8DA,
+		 3px -1px 2px #F2B8DA,
+		-3px  1px 2px #F2B8DA,
+		 3px  1px 2px #F2B8DA,
+		-2px -3px 2px #F2B8DA,
+		 2px -3px 2px #F2B8DA,
+		-2px  3px 2px #F2B8DA,
+		 2px  3px 2px #F2B8DA,
+		-3px -2px 2px #F2B8DA,
+		 3px -2px 2px #F2B8DA,
+		-3px  2px 2px #F2B8DA,
+		 3px  2px 2px #F2B8DA,
+		-3px -3px 2px #F2B8DA,
+		 3px -3px 2px #F2B8DA,
+		-3px  3px 2px #F2B8DA,
+		 3px  3px 2px #F2B8DA,
+		-3px -3px 2px #F2B8DA,
+		 3px -3px 2px #F2B8DA,
+		-3px  3px 2px #F2B8DA,
+		 3px  3px 2px #F2B8DA;
+}
+h1 {
+	padding-top: 10px;
+	border: #f58c47 5px dashed;
+	margin-left: 480px;
+	height: 50px;
+	width: 400px;
+	text-align: center;
+	background-color: #a2ceeb;
+    font-family: segoe script;
+	font-size: 22px;
+	font-weight: bold;
+	color: #F4B2E9;
+	text-shadow: 
+		-0   -2px 1px #5C34E2,
+		 0   -2px 1px #5C34E2,
+		-0    2px 1px #5C34E2,
+		 0    2px 1px #5C34E2,
+		-2px -0   1px #5C34E2,
+		 2px -0   1px #5C34E2,
+		-2px  0   1px #5C34E2,
+		 2px  0   1px #5C34E2,
+		-1px -2px 1px #5C34E2,
+		 1px -2px 1px #5C34E2,
+		-1px  2px 1px #5C34E2,
+		 1px  2px 1px #5C34E2,
+		-2px -1px 1px #5C34E2,
+		 2px -1px 1px #5C34E2,
+		-2px  1px 1px #5C34E2,
+		 2px  1px 1px #5C34E2,
+		-2px -2px 1px #5C34E2,
+		 2px -2px 1px #5C34E2,
+		-2px  2px 1px #5C34E2,
+		 2px  2px 1px #5C34E2,
+		-2px -2px 1px #5C34E2,
+		 2px -2px 1px #5C34E2,
+		-2px  2px 1px #5C34E2,
+		 2px  2px 1px #5C34E2;
+}
+.shadow {
+    font-weight: bolder;
+    font-family: segoe script;
+	font-size: 22px;
+	font-weight: bold;
+	color: #033846;
+	text-shadow: 6px 4px 5px black;
+}
+.pre {
+	white-space: pre;
+}
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS',
+}
+.prof {
+	text-decoration: underline;
+    font-size: 30px;
+    font-weight:bolder;
+	text-shadow: 6px 4px 4px black;
+}
+.contactinfo {
+	padding-left: 16px;
+    font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.subheading {
+	padding-left: 16px;
+    font-size: 20px;
+    font-weight:bolder ;
+    color:#2F5A78;
+    text-transform:uppercase ;
+}
+.icon {
+    color:#2F5A78;
+}
+.date {
+    font-size:16px;
+    font-weight:bold;
+    color:#2F5A78;
+}
+.jobtitle {
+    font-weight:bold ;
+}
+.social {
+	padding-left: 16px;
+}
+.border {
+	margin-top: 50px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: green;
+}
+#borderex {
+	padding-left: 30px;
+}
+.bordertwo {
+	margin-left: 400px;
+	margin-top: 50px;
+	width: 500px;
+	height: 250px;
+	border-style: dashed;
+	border-width: 8px;
+	border-color: pink;
+}
+#bordersmile {
+	text-align: center;
+	font-weight: bolder;
+	font-size: xx-large;
+	text-shadow: 4px 2px 4px green;
+}
+div.borderthree {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #2789ca;
+	width: 90px;
+	height: 90px;
+	background-color: #aaf0a3;
+}
+.first {
+	border: 5px solid green;
+	min-height: 100px;
+	background-color: #eecfe1;
+}
+.second {
+	border: 6px dashed orange;
+	max-width: 100px;
+	background-color: #f17474;
+}

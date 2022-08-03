@@ -1,0 +1,22 @@
+h1 {
+    color: white;
+    background-color: blueviolet;
+}
+#intro {
+    color: white;
+    background-color: pink;
+    font-size: 150%;
+}
+p {
+    color: white;
+    background-color: gray;
+    font-size: 130%;
+}
+.first {
+    color: pink;
+    font-size: 200%;
+}
+#myid .first em {
+    background-color: white;
+    color: black;
+}
