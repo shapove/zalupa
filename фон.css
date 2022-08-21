@@ -1,0 +1,139 @@
+.container-linear-gradient {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 80px;
+}
+.linear-gradient {
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    background: linear-gradient(deepskyblue 10%,black 50%,green 95% );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign {
+    color: #fff;
+    font-size: 200%;
+}
+.multi-gradient {
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    background: linear-gradient(red, orange, yellow, green, lightblue, blue, purple);
+    color: #fff;
+    font-size: 200%;
+}
+div.first {
+    float: left;
+    width: 300px; 
+    height: 100px;
+    margin: 4px;
+    color: #FFF;  
+    background: -webkit-linear-gradient(left, blue, green, white);
+} 
+div.second { 
+    float: left;
+    width: 300px; 
+    height: 100px;
+    margin: 4px;
+    background:-webkit-linear-gradient(100deg, blue, green, white);
+}
+.Repeating-Gradient {
+    margin-left: 500px;
+    float: left;
+    width: 300px; 
+    height: 100px;
+    color: #FFF;
+    background: repeating-linear-gradient(deepskyblue, rgb(226, 34, 66) 20px);
+}
+h1 {
+    text-align: center;
+    background-color: rgba(124, 117, 117, 0.5);
+    margin: 5px;
+}
+h1::first-line {
+    color: black;
+}
+.container-radiant-gradient {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 80px;
+}
+.first-radiant-gradient {
+    height: 300px;
+    width: 400px;
+    color: #FFF;
+    background: radial-gradient(green, yellow, blue);
+}
+.second-radiant-gradient {
+    height: 300px;
+    width: 400px;
+    color: #FFF;
+    background: radial-gradient(circle, green, yellow, blue);
+}
+.title-radiant {
+    margin-top: 250px;
+}
+.Color-Stops {
+    height: 300px;
+    width: 400px;
+    color: #FFF;
+    background: -webkit-radial-gradient(circle, yellow 20%, pink 40%, white 70%); 
+}
+.background-size {
+    margin-left: 400px;
+    width: 500px;
+    height: 400px;
+    border: 1px solid gray;
+    background: url("кот.jpg") no-repeat 50% 50%;
+    color: #FFF;
+    background-size: cover;
+}
+.padding-box {
+    border: 2px dotted black;
+    padding: 20px;
+    background: LightBlue;
+    background-clip: padding-box;
+    width: 400px;
+}
+.content-box {
+    width: 400px;
+    border: 2px dotted black;
+    padding: 20px;
+    background: LightBlue;
+    background-clip: content-box;
+}
+.content-box-img {
+    background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+    background-clip: content-box;
+    border: 2px dotted black;
+    padding: 20px;
+}
+.transparent-borders {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    border: 20px solid rgba(0, 0, 0, 0.3);
+    background-color: #FFF;
+    background-clip: padding-box;
+}
+.backgrounds {
+    width: 500px;
+    height: 300px;
+    background: url("http://www.sololearn.com/uploads/css_logo.png") right bottom no-repeat, 
+    url("http://www.sololearn.com/uploads/better-code.jpg") left top no-repeat; 
+}
+.backgrounds-title {
+    margin-top: 175px;
+}
+#img1 {
+    opacity: 0.5;
+}
